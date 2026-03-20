@@ -17,8 +17,6 @@
 ## About Me
 
 - MS Computer Engineering @ University of Nevada, Reno — GPA 4.0
-- Undergraduate Research Award recipient; published in IEEE ISVLSI 2024
-- Won 1st place at IEEE CASS RISC-V Hackathon for UART-based ECG hardware design
 - Built **ShellGenie** — a natural language to Bash CLI tool using LLMs
 - Former Software Engineer intern at PartnerRe (cloud automation) and HCLTech (VLSI CAD)
 - Passionate about bridging hardware foundations with intelligent software systems
@@ -30,9 +28,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [ShellGenie](https://github.com/srijavuppala/ShellGenie) | NL → Bash CLI assistant powered by LLMs | Python, OpenAI API, Click |
-| [ECG RISC-V Design](https://github.com/srijavuppala) | UART-based ECG hardware — IEEE CASS Hackathon 1st place | RISC-V, Verilog, UART |
-| [VLSI ISVLSI Research](https://github.com/srijavuppala) | Published circuit optimization research | Cadence, SPICE, Python |
-| [Cloud Automation](https://github.com/srijavuppala) | Infrastructure automation pipelines @ PartnerRe | AWS, Terraform, Python |
+|[Cloud Automation](https://github.com/srijavuppala) | Infrastructure automation pipelines @ PartnerRe | AWS, Terraform, Python |
 | [Portfolio Site](https://github.com/srijavuppala/portfolio-srijavuppala) | Personal portfolio with Netlify deploy | Astro, Tailwind, Netlify |
 
 ---
