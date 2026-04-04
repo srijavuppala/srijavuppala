@@ -1,15 +1,17 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Srija+Vuppala+%F0%9F%91%8B;Systems+Engineer+%C2%B7+AI%2FML+Builder+%C2%B7+Hardware-Software+Explorer;LangGraph+%C2%B7+AWS+Agents+%C2%B7+RTL+Verilog+%C2%B7+DevOps" alt="Typing SVG" />
-</a>
+# Srija Vuppala
+
+**Systems Engineer · AI/ML Builder · Hardware-Software Explorer**
+
+`LangGraph` `AWS Agents` `RTL Verilog` `DevOps`
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srija-vuppala/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijavuppala11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijavuppala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=globe&logoColor=white)](https://srijavuppala.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=globe&logoColor=white)](https://srijavuppala.com)
 
 </div>
 
@@ -23,7 +25,7 @@
 - 🤖 Building multi-agentic systems with LangGraph, AWS Strands Agents, Claude API, Gemini 2.5, and Amazon Nova
 - 🏛️ **Microsoft Student Ambassador** · **AWS Cloud Club Workshop Lead** @ UTD
 - 🗣️ Toastmasters member · Orientation Leader · community-driven builder
-- 🇮🇳 B.Tech ECE from JNTU Hyderabad — RISC-V pipelined processor, 65nm standard cell library
+- 🇮🇳 B.Tech ECE from JNTU Hyderabad — RISC-V pipelined processor (714 MHz, 2nd place nationally), 65nm standard cell library
 
 ---
 
@@ -32,7 +34,7 @@
 ```
 🖥️  25,000+   users on infrastructure managed at UTD OIT
 🎯  GPA 3.8   MS Computer Engineering
-📄  AgentRTL  target venues for agentic EDA research paper
+📄  DAC/ICCAD target venues for agentic EDA research paper
 🚀  6+        production projects shipped across AI, cloud, and hardware
 🏆  TAMUhack  Financial Inclusion Alt Credit Scoring — SageMaker + Flutter + AWS
 ```
@@ -45,7 +47,7 @@
 |---|---|---|
 | [**multi-db-sql-agent**](https://github.com/srijavuppala/multi-db-sql-agent) | Multi-DB agentic text-to-SQL system — natural language queries routed across heterogeneous databases via a LangGraph orchestrator | LangGraph, FastAPI, React, Python |
 | **PIL · Amazon Nova Hackathon** | Post-Purchase Intelligence Layer — multi-agent AWS system using Amazon Nova & Strands Agents for proactive post-purchase insights | Strands Agents, Amazon Nova, Lambda, DynamoDB, EventBridge, React/Amplify |
-| **ShellGenie** | Natural language → shell command desktop app with Tauri 2 + Rust backend and React 19 frontend, powered by Claude API | Tauri 2, Rust, React 19, Claude API |
+| **ShellGenie** *(demoed @ ClawCon DFW)* | Natural language → shell command desktop app with Tauri 2 + Rust backend and React 19 frontend, powered by Claude API | Tauri 2, Rust, React 19, Claude API |
 | **rtl_agent · Agentic EDA** | Gemini 2.5-powered RTL Verilog generation agent benchmarked against direct LLM generation across VerilogEval v2, MAGE, AIvril2, and RTLFixer | Gemini 2.5, LangGraph, Verilog, Python |
 | **LogLens** | Serverless AWS log analysis platform with DynamoDB-only architecture — intelligent log parsing, pattern detection, and anomaly surfacing | AWS Lambda, DynamoDB, Python, Serverless |
 | **weather + ASIC** | Weather prediction pipeline co-designed with custom ASIC logic — hardware-software co-optimization for inference at the edge | ASIC, Verilog, Python |
