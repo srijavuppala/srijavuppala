@@ -2,7 +2,7 @@
 
 # Srija Vuppala
 
-**Systems Engineer · AI/ML Builder · Hardware-Software Explorer**
+**Devops/SRE Engineer · AI/ML Builder · Hardware-Software Explorer**
 
 `LangGraph` `AWS Agents` `RTL Verilog` `DevOps`
 
