@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" width="260" />
+
 
 ## About Me
 
