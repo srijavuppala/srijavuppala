@@ -29,22 +29,6 @@
 
 <br clear="right"/>
 
----
-
-## Impact at a Glance
-
-```
-🖥️  25,000+   users on Red Hat Linux + Windows Server infrastructure managed at UTD OIT
-📄  GLSVLSI   First-author — Agentic Hardware Synthesis with CDM Supergates
-⚡  714 MHz   Pipelined RISC-V processor — 2nd place nationally
-🏗️  65nm      Full standard cell library — Cadence Virtuoso, DRC/LVS sign-off, HSPICE
-🔻  53–55%    Transistor count reduction via CDM-SG PTL supergate optimization
-📈  4.3×      Figure of Merit improvement over standard CMOS
-🚀  6+        Production projects shipped across AI, cloud, and hardware
-🔁  256/256   Icarus Verilog test vectors passed — NullaNet-to-CDM-SG-PTL pipeline
-```
-
----
 
 ### Tech Stack
 
@@ -126,7 +110,7 @@
 |---|---|---|
 | **Agentic EDA Pipeline** *(GLSVLSI)* | Natural-language spec → synthesizable SystemVerilog RTL; three-stage verification (Yosys → ModelSim → HSPICE) + closed-loop LLM repair. Benchmarked vs. VerilogEval v2, MAGE, AIvril2, RTLFixer | Gemini 2.5 Pro, LangGraph, Yosys, ModelSim, HSPICE |
 | **CDM-SG PTL Supergate** | Truth table → Boolean minimization → transistor-level structural Verilog. 53–55% transistor reduction, 4.3× FOM. 256/256 test vectors verified | Icarus Verilog, Python, pmos/nmos primitives |
-| **ShellGenie** *(demoed @ ClawCon DFW)* | Natural language → shell command macOS overlay; destructive command detection, Quick/Learn/Workflow modes, macOS Keychain auth | Tauri 2, Rust, React 19, Claude API (SSE) |
+| **ShellGenie**| Natural language → shell command macOS overlay; destructive command detection, Quick/Learn/Workflow modes, macOS Keychain auth | Tauri 2, Rust, React 19, Claude API (SSE) |
 | **LogLens** | Serverless AI log analysis — intelligent parsing, pattern detection, anomaly surfacing, DynamoDB-only schema | AWS Lambda, API Gateway, S3, DynamoDB, Bedrock |
 | **PIL · Amazon Nova Hackathon** | Post-Purchase Intelligence Layer — event-driven multi-agent system for proactive post-purchase insights | Strands Agents, Amazon Nova, Lambda, EventBridge, Amplify |
 | [**multi-db-sql-agent**](https://github.com/srijavuppala/multi-db-sql-agent) | LangGraph-orchestrated text-to-SQL agent routing NL queries across heterogeneous databases | LangGraph, FastAPI, React, Python |
@@ -153,6 +137,6 @@
 
 <div align="center">
   <i>"From transistor-level RTL to serverless cloud agents — building where hardware meets software."</i>
-  <br/><br/>
-  <sub>📍 Richardson, TX · Open to SRE · DevOps · RTL Design · AI/ML · Platform Engineering roles · F-1 OPT (STEM) · Summer 2026 start</sub>
+
+
 </div>
