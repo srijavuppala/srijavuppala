@@ -2,8 +2,7 @@
 
 # Srija Vuppala
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&delay=0&speed=30&color=C9D1D9&center=true&vCenter=true&random=false&width=750&lines=DevOps+Engineer; Rtl+Engineer;Ai+Engineer" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&delay=0&speed=30&color=C9D1D9&center=true&vCenter=true&random=false&width=750&lines=DevOps+%2F+SRE+Engineer;RTL+Design+Engineer;AI+%2F+ML+Engineer" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srija-vuppala/)
