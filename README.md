@@ -115,6 +115,9 @@ Combining Xu et al. (ASP-DAC 2024) weight-embedded neural network logic with Pro
 Benchmarking a Gemini 2.5-powered RTL agent against direct LLM generation across VerilogEval v2, MAGE, VerilogCoder, AIvril2, and RTLFixer. Full benchmarking kit, embedding ablation experiments, and paper-ready tables.
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=srijavuppala&style=for-the-badge&color=0a0f1e&label=PROFILE+VIEWS&labelColor=4a9eff" alt="profile views" />
+</p>
 
 <div align="center">
   <i>"From transistor-level RTL to serverless cloud agents — building where hardware meets software."</i>
