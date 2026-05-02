@@ -113,7 +113,7 @@
 | **LogLens** | Serverless AI log analysis — intelligent parsing, pattern detection, anomaly surfacing, DynamoDB-only schema | AWS Lambda, API Gateway, S3, DynamoDB, Bedrock |
 | **PIL · Amazon Nova Hackathon** | Post-Purchase Intelligence Layer — event-driven multi-agent system for proactive post-purchase insights | Strands Agents, Amazon Nova, Lambda, EventBridge, Amplify |
 | [**multi-db-sql-agent**](https://github.com/srijavuppala/multi-db-sql-agent) | LangGraph-orchestrated text-to-SQL agent routing NL queries across heterogeneous databases | LangGraph, FastAPI, React, Python |
-| **Pipelined RISC-V Processor** | 5-stage pipeline at 714 MHz — 2nd place nationally | Verilog, Quartus/Vivado |
+| **Pipelined RISC-V Processor** | 5-stage pipeline at 714 MHz  | Verilog, Quartus/Vivado |
 | **65nm Standard Cell Library** | Full cell design in Cadence Virtuoso — DRC/LVS sign-off, HSPICE characterization | Cadence Virtuoso, HSPICE, Spectre |
 
 ---
