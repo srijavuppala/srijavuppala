@@ -116,17 +116,7 @@
 | **Pipelined RISC-V Processor** | 5-stage pipeline at 714 MHz  | Verilog, Quartus/Vivado |
 | **65nm Standard Cell Library** | Full cell design in Cadence Virtuoso — DRC/LVS sign-off, HSPICE characterization | Cadence Virtuoso, HSPICE, Spectre |
 
----
 
-## Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Systems Engineer | UT Dallas OIT | Oct 2025 → Present |
-| Hardware Research Assistant | UTD — Prof. Tooraj Nikoubin | Nov 2025 → Present |
-| DevOps Engineer | Optum / UnitedHealth Group | Feb – May 2024 |
-| Full Stack Developer | Solar Secure Solutions | Dec 2023 – Feb 2024 |
-| Associate Graduate Engineer | Ericsson Global Services | Jan 2023 – Jan 2024 |
 
 ---
 
